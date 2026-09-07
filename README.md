@@ -62,4 +62,4 @@ Testing Accuracy: `90.48%`
 
 ### Loss
 
-![](https://github.com/is386/KerasTest/blob/master/loss.png?raw=true)
+![](https://github.com/1nderr/keras-neural-network/blob/master/loss.png?raw=true)
